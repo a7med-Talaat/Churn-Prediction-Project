@@ -28,10 +28,11 @@ This step cleans up the messy data:
 Then it creates **3 simple numbers** for each customer:
 
 | Feature       | What It Means                              |
-|---------------|--------------------------------------------||
-| **Recency**   | How many days since their last purchase     |
-| **Frequency** | How many times they bought something        |
-| **Monetary**  | How much money they spent in total          |
+|---------------|--------------------------------------------|
+| **Recency**   | How many days since their last purchase    |
+| **Frequency** | How many times they bought something       |
+| **Monetary**  | How much money they spent in total         |
+
 
 If a customer hasn't bought anything in **more than 90 days**, we label them as **churned**.
 
