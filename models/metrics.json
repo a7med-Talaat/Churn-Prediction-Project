@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.993,
+  "f1_score": 0.993,
+  "roc_auc": 1.0,
+  "test_samples": 863,
+  "feature_importances": {
+    "Recency": 0.9981,
+    "Frequency": 0.0015,
+    "Monetary": 0.0004
+  }
+}

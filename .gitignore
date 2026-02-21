@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+venv/
+test_venv/
+data/*.xlsx
+data/*.db
+models/*.pkl
+.DS_Store
