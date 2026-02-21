@@ -74,7 +74,7 @@ If you are on Windows, ensure you are using a standard 64-bit Python 3.11 or 3.1
 **Windows (PowerShell):**
 ```powershell
 # Create the environment using the explicit Windows Python path
-& "C:\Users\PC\AppData\Local\Programs\Python\Python311\python.exe" -m venv venv
+& "your python.exe location" -m venv venv
 
 # Activate it
 .\venv\Scripts\Activate.ps1
