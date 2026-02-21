@@ -12,6 +12,10 @@ More than just a prediction engine, this dashboard provides an actionable end-to
 
 ## How Does It Work?
 
+### Before start :
+
+make sure to download the dataset from this link ( https://archive.ics.uci.edu/dataset/502/online+retail+ii ) and place the downloaded file after extracting it in the data folder 
+
 ### Step 1: Clean the Data
 
 The raw data is a big list of online store transactions (who bought what, when, and for how much).
